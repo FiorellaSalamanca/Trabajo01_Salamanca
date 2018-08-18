@@ -1,0 +1,4 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Actividad No 01 \IeC {\textendash } Sistema Control de Versiones}{1}
+\contentsline {section}{\numberline {2}Actividad No 02 \IeC {\textendash } Reconociendo la estructura}{2}
+\contentsline {section}{\numberline {3}Actividad No 03 \IeC {\textendash } Consultas B\'asicas}{4}
